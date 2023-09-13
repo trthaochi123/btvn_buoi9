@@ -10,7 +10,7 @@ class StudentsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Thông tin Sinh viên"),
+        title: const Text("Thông tin chi tiết Sinh viên"),
       ),
       body: Container(
         margin: const EdgeInsets.only(top: 25, left: 20),
